@@ -4,7 +4,7 @@ title:  "Hi!"
 date:   2016-03-12 19:37:01 -0800
 categories: jekyll update
 ---
-Hi there. This is my blog.
+Hi there. This is my blog. I am trying out the `syntax`
 
 {% highlight ruby %}
 def print_hello():
