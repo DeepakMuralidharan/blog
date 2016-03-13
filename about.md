@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 I am an Electrical Engineering Masters student at UCLA with an interest in machine learning, artificial intelligence
-and data mining. I am inspired about the applications of these concepts to a wide variety of fields such as computer vision, speech recognition and natural language processing.
+and data mining. I am inspired by the applications of these concepts to a wide variety of fields such as computer vision, speech recognition and natural language processing.
 
 You can find my LinkedIn profile [here](https://www.linkedin.com/in/muralidharandeepak).
 
