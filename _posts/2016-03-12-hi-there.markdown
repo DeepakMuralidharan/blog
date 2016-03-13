@@ -1,10 +1,14 @@
 ---
 layout: post
-title:  "Hi!"
+title:  "Hi. Welcome to my webpage"
 date:   2016-03-12 19:37:01 -0800
 categories: jekyll update
 ---
+<<<<<<< HEAD
 Hi there. This is my blog. I am trying out the `syntax`
+=======
+Hi. This is my webpage. I am just trying out the `syntax`. 
+>>>>>>> master
 
 {% highlight ruby %}
 def print_hello():
