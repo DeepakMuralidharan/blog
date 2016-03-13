@@ -10,5 +10,4 @@ and data mining. I'm inspired about the applications of the these concepts in a 
 You can find my LinkedIn profile [here][https://www.linkedin.com/in/muralidharandeepak].
 
 I usually upload all my projects on my Github page which can be found here:
-{% include icon-github.html username="deepakmuralidharan" %}/
-[deepakmuralidharan](https://github.com/DeepakMuralidharan)
+{% include icon-github.html username="deepakmuralidharan" %}
