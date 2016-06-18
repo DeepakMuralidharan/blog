@@ -8,8 +8,9 @@ I am an Electrical Engineering Masters student at the University of California, 
 
 You can find my Resume [here]().
 
-I usually upload all my projects on my Github page which can be found here:
+My Github webpage:
 {% include icon-github.html username="deepakmuralidharan" %}
 
-My LinkedIn Profile [![linked-in](http://www.pcc-cic.org.uk/sites/all/modules/contrib/socialmedia/icons/levelten/glossy/32x32/xlinkedin.png.pagespeed.ic.KvS4d3tu1L.png)](https://www.linkedin.com/in/muralidharandeepak)
+My LinkedIn profile: [![linked-in](http://www.pcc-cic.org.uk/sites/all/modules/contrib/socialmedia/icons/levelten/glossy/32x32/xlinkedin.png.pagespeed.ic.KvS4d3tu1L.png)](https://www.linkedin.com/in/muralidharandeepak)  
+
 ![contact-me](http://findicons.com/files/icons/1008/quiet/32/gmail.png)  **deepakmuralidharan2308[at]gmail[dot]com**
