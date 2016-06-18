@@ -22,9 +22,9 @@ I usually upload all my projects on my Github page which can be found here:
 ### Projects
 
 #### Graduate
-* Genotype Imputation using Recurrent Neural Network [![alt-text](http://iconshow.me/media/images/ui/ios7-icons/png/16/social-github.png)](https://github.com/deepakmuralidharan/CM229-Genotype-Imputation-using-Bidirectional-RNN)  
+* Genotype Imputation using Recurrent Neural Network   [![alt-text](http://iconshow.me/media/images/ui/ios7-icons/png/16/social-github.png)](https://github.com/deepakmuralidharan/CM229-Genotype-Imputation-using-Bidirectional-RNN)  
 * [Yelp Restaurant Photo Classification using Convolutional Neural Network]()  
-* [Predicting and Detecting Freezing of Gait with Recurrent Neural Network / LSTM]()  
+* Predicting and Detecting Freezing of Gait with Recurrent Neural Network / LSTM [![alt-text](http://wwwimages.adobe.com/content/dam/acom/en/legal/images/badges/Adobe_PDF_file_icon_32x32.png)](https://www.dropbox.com/home?preview=Our_report.pdf)   
 * [Regression, Classification, Collaborative Filtering, Tweet Popularity Prediction]()  
 * [Scalable Machine Learning Projects using Apache Spark]()  
 * [Automatic Speaker Verification in Noisy Environment]()  
