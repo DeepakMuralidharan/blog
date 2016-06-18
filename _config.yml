@@ -9,11 +9,8 @@
 title: Deepak Muralidharan
 email: deepakmuralidharan@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Welcome to my website!
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "http://deepakmuralidharan.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  DeepakMuralidharan
+# the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown

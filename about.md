@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I am an Electrical Engineering Masters student at UCLA with an interest in machine learning, artificial intelligence
+and data mining. Specifically I am interested in deep learning and neural networks and their applications in computer vision, speech recognition and natural language processing.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+You can find my LinkedIn profile [here](https://www.linkedin.com/in/muralidharandeepak).
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I usually upload all my projects on my Github page which can be found here:
+{% include icon-github.html username="deepakmuralidharan" %}

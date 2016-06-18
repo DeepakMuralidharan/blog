@@ -4,7 +4,9 @@ title:  "Hi. Welcome to my webpage"
 date:   2016-03-12 19:37:01 -0800
 categories: jekyll update
 ---
-Hi. This is my webpage. I am just trying out the `syntax`. 
+
+Hi. This is my webpage. I am just trying out the `syntax`.
+
 
 {% highlight ruby %}
 def print_hello():
