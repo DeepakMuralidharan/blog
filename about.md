@@ -22,7 +22,7 @@ I usually upload all my projects on my Github page which can be found here:
 ### Projects
 
 #### Graduate
-* [Genotype Imputation using Recurrent Neural Network]()  
+* [Genotype Imputation using Recurrent Neural Network]() ![alt-text](https://github.com/deepakmuralidharan/CM229-Genotype-Imputation-using-Bidirectional-RNN/blob/master/icons/GitHub-Mark-64px.png)  
 * [Yelp Restaurant Photo Classification using Convolutional Neural Network]()  
 * [Predicting and Detecting Freezing of Gait with Recurrent Neural Network / LSTM]()  
 * [Regression, Classification, Collaborative Filtering, Tweet Popularity Prediction]()  
