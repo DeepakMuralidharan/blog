@@ -15,26 +15,39 @@ I usually upload all my projects on my Github page which can be found here:
 {% include icon-github.html username="deepakmuralidharan" %}
 ---
 
-### Work Experience
+### Research and Work Experience
 
-### Machine Learning Projects
+---
+
+### Projects
+
+##### Graduate
 [Genotype Imputation using Recurrent Neural Network]()  
-[Yelp Restaurant Photo Classification using Convolutional Neural Network]  
+[Yelp Restaurant Photo Classification using Convolutional Neural Network]()  
+[Predicting and Detecting Freezing of Gait with Recurrent Neural Network / LSTM]()  
+[Regression, Classification, Collaborative Filtering, Tweet Popularity Prediction]()  
+[Scalable Machine Learning Projects using Apache Spark]()  
+[Automatic Speaker Verification in Noisy Environment]()  
+
+##### Undergraduate
+[Single Image Super-resolution]()  
+[Multiple Image Encryption]()  
+
+---
 
 ### Courses at UCLA
 
 #### Fall 2015:
-Machine Learning Algorithms  
-Statistics Programming  
+* Machine Learning Algorithms  
+* Statistics Programming  
 
 #### Winter 2016:
-Big Data Analytics  
-Advanced Topics in ML: Deep Learning  
-Big Data: Modelling and Mining the Web  
-Speech Processing  
+* Big Data Analytics  
+* Advanced Topics in ML: Deep Learning  
+* Big Data: Modelling and Mining the Web  
+* Speech Processing  
 
 #### Spring 2016:
-Advanced Topics in Speech: Speech Recognition  
-Machine Learning for Bio-Informatics: Population Genetics  
-Graphs and Network Flows  
----
+* Advanced Topics in Speech: Speech Recognition  
+* Machine Learning for Bio-Informatics: Population Genetics  
+* Graphs and Network Flows
