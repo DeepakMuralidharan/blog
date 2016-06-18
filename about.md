@@ -22,20 +22,20 @@ I usually upload all my projects on my Github page which can be found here:
 ### Projects
 
 #### Graduate
-* Genotype Imputation using Recurrent Neural Network   [![alt-text](http://iconshow.me/media/images/ui/ios7-icons/png/16/social-github.png)](https://github.com/deepakmuralidharan/CM229-Genotype-Imputation-using-Bidirectional-RNN)  [![alt-text](http://www.kilbreda.vic.edu.au/images/pdf.gif)](https://www.dropbox.com/home?preview=Our_report.pdf)
+* Genotype Imputation using Recurrent Neural Network [![alt-text](http://iconshow.me/media/images/ui/ios7-icons/png/16/social-github.png)](https://github.com/deepakmuralidharan/CM229-Genotype-Imputation-using-Bidirectional-RNN)  [![alt-text](http://www.kilbreda.vic.edu.au/images/pdf.gif)](https://www.dropbox.com/home?preview=Our_report.pdf)
 [![alt-text](https://cdn2.iconfinder.com/data/icons/ledicons/page_white_powerpoint.png)](https://www.dropbox.com/home?preview=Our_report.pdf)  
-* Yelp Restaurant Photo Classification using Convolutional Neural Network  
+* Yelp Restaurant Photo Classification using Convolutional Neural Network
 [![alt-text](http://iconshow.me/media/images/ui/ios7-icons/png/16/social-github.png)](https://github.com/deepakmuralidharan/CM229-Genotype-Imputation-using-Bidirectional-RNN)  [![alt-text](http://www.kilbreda.vic.edu.au/images/pdf.gif)](https://www.dropbox.com/home?preview=Our_report.pdf)
 [![alt-text](https://cdn2.iconfinder.com/data/icons/ledicons/page_white_powerpoint.png)](https://www.dropbox.com/home?preview=Our_report.pdf)  
-* Predicting and Detecting Freezing of Gait with Recurrent Neural Network / LSTM   [![alt-text](http://iconshow.me/media/images/ui/ios7-icons/png/16/social-github.png)](https://github.com/deepakmuralidharan/CM229-Genotype-Imputation-using-Bidirectional-RNN)  [![alt-text](http://www.kilbreda.vic.edu.au/images/pdf.gif)](https://www.dropbox.com/home?preview=Our_report.pdf)
+* Predicting and Detecting Freezing of Gait with Recurrent Neural Network / LSTM [![alt-text](http://iconshow.me/media/images/ui/ios7-icons/png/16/social-github.png)](https://github.com/deepakmuralidharan/CM229-Genotype-Imputation-using-Bidirectional-RNN)  [![alt-text](http://www.kilbreda.vic.edu.au/images/pdf.gif)](https://www.dropbox.com/home?preview=Our_report.pdf)
 [![alt-text](https://cdn2.iconfinder.com/data/icons/ledicons/page_white_powerpoint.png)](https://www.dropbox.com/home?preview=Our_report.pdf)  
-* Regression, Classification, Collaborative Filtering, Tweet Popularity Prediction  
+* Regression, Classification, Collaborative Filtering, Tweet Popularity Prediction
 [![alt-text](http://iconshow.me/media/images/ui/ios7-icons/png/16/social-github.png)](https://github.com/deepakmuralidharan/CM229-Genotype-Imputation-using-Bidirectional-RNN)  [![alt-text](http://www.kilbreda.vic.edu.au/images/pdf.gif)](https://www.dropbox.com/home?preview=Our_report.pdf)
 [![alt-text](https://cdn2.iconfinder.com/data/icons/ledicons/page_white_powerpoint.png)](https://www.dropbox.com/home?preview=Our_report.pdf)  
-* Scalable Machine Learning Projects using Apache Spark  
+* Scalable Machine Learning Projects using Apache Spark
 [![alt-text](http://iconshow.me/media/images/ui/ios7-icons/png/16/social-github.png)](https://github.com/deepakmuralidharan/CM229-Genotype-Imputation-using-Bidirectional-RNN)  [![alt-text](http://www.kilbreda.vic.edu.au/images/pdf.gif)](https://www.dropbox.com/home?preview=Our_report.pdf)
 [![alt-text](https://cdn2.iconfinder.com/data/icons/ledicons/page_white_powerpoint.png)](https://www.dropbox.com/home?preview=Our_report.pdf)  
-* Automatic Speaker Verification in Noisy Environment  
+* Automatic Speaker Verification in Noisy Environment
 [![alt-text](http://iconshow.me/media/images/ui/ios7-icons/png/16/social-github.png)](https://github.com/deepakmuralidharan/CM229-Genotype-Imputation-using-Bidirectional-RNN)  [![alt-text](http://www.kilbreda.vic.edu.au/images/pdf.gif)](https://www.dropbox.com/home?preview=Our_report.pdf)
 [![alt-text](https://cdn2.iconfinder.com/data/icons/ledicons/page_white_powerpoint.png)](https://www.dropbox.com/home?preview=Our_report.pdf)  
 
