@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Genotype Imputation using Recurrent Neural Network"
-date:   2016-03-12 19:37:01 -0800
+date:   2016-06-10 19:37:01 -0800
 categories: jekyll update
 ---
 
