@@ -15,13 +15,13 @@ I usually upload all my projects on my Github page which can be found here:
 Courses at UCLA:
 
 Fall 2015:
-⋅⋅⋅[Machine Learning Algorithms](https://github.com/deepakmuralidharan/CS260-Machine-Learning-Algorithms)
-⋅⋅⋅[Statistics Programming](https://github.com/deepakmuralidharan/STATS202A-Statistics-Programming)
+⋅⋅⋅[Machine Learning Algorithms](https://github.com/deepakmuralidharan/CS260-Machine-Learning-Algorithms)  
+⋅⋅⋅[Statistics Programming](https://github.com/deepakmuralidharan/STATS202A-Statistics-Programming)  
 
 Winter 2016:
-...[Big Data Analytics](https://github.com/deepakmuralidharan/CS249-Yelp-Restaurant-Photo-Classification-Challenge)
-...Advanced Topics in ML: Deep Learning
-...[Big Data: Modelling and Mining the Web](https://github.com/deepakmuralidharan/EE239AS-Big-Data-Modelling-and-Mining-the-Web)
+...[Big Data Analytics](https://github.com/deepakmuralidharan/CS249-Yelp-Restaurant-Photo-Classification-Challenge)  
+...Advanced Topics in ML: Deep Learning  
+...[Big Data: Modelling and Mining the   Web](https://github.com/deepakmuralidharan/EE239AS-Big-Data-Modelling-and-Mining-the-Web)
 ...[Speech Processing](https://github.com/ShubhamAgarwal12/SpeechProcessing)
 
 Spring 2016:
