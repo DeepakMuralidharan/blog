@@ -36,9 +36,9 @@ I usually upload all my projects on my Github page which can be found here:
 [![alt-text](https://cdn2.iconfinder.com/data/icons/ledicons/page_white_powerpoint.png)](https://www.dropbox.com/home?preview=Our_report.pdf)  
 
 #### Undergraduate
-* Single Image Super-resolution  
+* Single Image Super-resolution
 [![alt-text](https://cdn2.iconfinder.com/data/icons/ledicons/page_white_powerpoint.png)](https://www.dropbox.com/home?preview=Our_report.pdf)  
-* Multiple Image Encryption  
+* Multiple Image Encryption
 [![alt-text](http://www.kilbreda.vic.edu.au/images/pdf.gif)](https://www.dropbox.com/home?preview=Our_report.pdf)
 [![alt-text](https://cdn2.iconfinder.com/data/icons/ledicons/page_white_powerpoint.png)](https://www.dropbox.com/home?preview=Our_report.pdf)  
 
