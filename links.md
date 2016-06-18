@@ -15,7 +15,7 @@ permalink: /links/
 * [Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
-#### **On a tangential note, some useful interview preparation websites :) **
+#### **On a tangential note, some useful interview preparation websites**
 * [Leetcode](https://leetcode.com/)
 * [Hackerrank](https://www.hackerrank.com/)
 * [geeksforgeeks](http://www.geeksforgeeks.org/)
