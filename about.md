@@ -20,7 +20,7 @@ Fall 2015:
 
 
 Winter 2016:
-[Big Data Analytics](https://github.com/deepakmuralidharan/CS249-Yelp-Restaurant-Photo-Classification-Challenge)
+[Big Data Analytics](https://github.com/deepakmuralidharan/CS249-Yelp-Restaurant-Photo-Classification-Challenge)  
 Advanced Topics in ML: Deep Learning  
 [Big Data: Modelling and Mining the   Web](https://github.com/deepakmuralidharan/EE239AS-Big-Data-Modelling-and-Mining-the-Web)  
 [Speech Processing](https://github.com/ShubhamAgarwal12/SpeechProcessing)
