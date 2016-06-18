@@ -4,7 +4,7 @@ title: Some Useful links
 permalink: /links/
 ---
 
-#### **Some of the deep learning toolkits that I have worked on**
+#### **Some of the deep learning toolkits that I have used**
 * [Tensorflow](https://www.tensorflow.org/)
 * [keras](http://keras.io/getting-started/functional-api-guide/)
 * [Theano](http://deeplearning.net/software/theano/)
