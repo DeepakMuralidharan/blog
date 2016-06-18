@@ -13,7 +13,6 @@ You can find my LinkedIn profile [here](https://www.linkedin.com/in/muralidharan
 
 I usually upload all my projects on my Github page which can be found here:
 {% include icon-github.html username="deepakmuralidharan" %}
-
 ---
 
 ### Courses at UCLA
