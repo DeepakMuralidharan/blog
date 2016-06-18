@@ -33,7 +33,7 @@ Freezing of Gait is a brief episodic disturbance of movement occurring in patien
 
 In our work we proposed a novel algorithm for predicting the freezing of gait in Parkinson’s patients using an LSTM recurrent neural network. We went beyond state of the art for gait time series classification and use RNNs for ordered acceleration sequences. We also exploited a global training paradigm which trains the classifier with features of all patients and evaluate performance on a disjoint set of patients. Finally, we compared the performance of time-domain and frequency domain features for decision trees and LSTM for the prediction problem in patient dependent and independent studies.  
 
-[![alt-text](http://icons.iconarchive.com/icons/graphicloads/filetype/32/pdf-icon.png)](https://www.dropbox.com/home?preview=cm229-final-report.pdf)
+[![alt-text](http://icons.iconarchive.com/icons/graphicloads/filetype/32/pdf-icon.png)](https://www.dropbox.com/s/uk5wf6zhz8q8aqp/Our_report.pdf?dl=0)
 [![alt-text](http://icons.veryicon.com/32/System/Filetype%201/ppt.png)](https://www.dropbox.com/home?preview=Poster-2.pdf)      
 
 ---
