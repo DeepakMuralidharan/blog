@@ -15,8 +15,10 @@ I usually upload all my projects on my Github page which can be found here:
 Courses at UCLA:
 
 Fall 2015:
-⋅⋅⋅[Machine Learning Algorithms](https://github.com/deepakmuralidharan/CS260-Machine-Learning-Algorithms)\s\s
-⋅⋅⋅[Statistics Programming](https://github.com/deepakmuralidharan/STATS202A-Statistics-Programming)\s\s
+⋅⋅⋅[Machine Learning Algorithms](https://github.com/deepakmuralidharan/CS260-Machine-Learning-Algorithms)
+
+⋅⋅⋅[Statistics Programming](https://github.com/deepakmuralidharan/STATS202A-Statistics-Programming)
+
 
 Winter 2016:
 ...[Big Data Analytics](https://github.com/deepakmuralidharan/CS249-Yelp-Restaurant-Photo-Classification-Challenge)  
