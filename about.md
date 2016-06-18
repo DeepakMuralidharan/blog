@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+## Summary
+
 I am an Electrical Engineering Masters student at UCLA with an interest in machine learning, artificial intelligence
 and data mining. Specifically I am interested in deep learning and neural networks and their applications in computer vision, speech recognition and natural language processing.
 
@@ -12,7 +14,7 @@ You can find my LinkedIn profile [here](https://www.linkedin.com/in/muralidharan
 I usually upload all my projects on my Github page which can be found here:
 {% include icon-github.html username="deepakmuralidharan" %}
 
-Courses at UCLA:
+## Courses at UCLA
 
 Fall 2015:
 [Machine Learning Algorithms](https://github.com/deepakmuralidharan/CS260-Machine-Learning-Algorithms)  
