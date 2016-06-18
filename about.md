@@ -22,7 +22,7 @@ I usually upload all my projects on my Github page which can be found here:
 ### Projects
 
 #### Graduate
-* [Genotype Imputation using Recurrent Neural Network]() ![alt-text](GitHub-Mark-64px.png)  
+* [Genotype Imputation using Recurrent Neural Network]() ![alt-text](http://wasin.io/wp-content/uploads/2015/05/showimage.png)  
 * [Yelp Restaurant Photo Classification using Convolutional Neural Network]()  
 * [Predicting and Detecting Freezing of Gait with Recurrent Neural Network / LSTM]()  
 * [Regression, Classification, Collaborative Filtering, Tweet Popularity Prediction]()  
