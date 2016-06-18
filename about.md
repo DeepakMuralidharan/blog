@@ -37,17 +37,17 @@ I usually upload all my projects on my Github page which can be found here:
 
 ### Courses at UCLA
 
-#### Fall 2015:
+#### Fall 2015
 * Machine Learning Algorithms  
 * Statistics Programming  
 
-#### Winter 2016:
+#### Winter 2016
 * Big Data Analytics  
 * Advanced Topics in ML: Deep Learning  
 * Big Data: Modelling and Mining the Web  
 * Speech Processing  
 
-#### Spring 2016:
+#### Spring 2016
 * Advanced Topics in Speech: Speech Recognition  
 * Machine Learning for Bio-Informatics: Population Genetics  
 * Graphs and Network Flows
