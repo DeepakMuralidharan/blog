@@ -13,4 +13,4 @@ My Github webpage:
 
 My LinkedIn profile: [![linked-in](http://www.pcc-cic.org.uk/sites/all/modules/contrib/socialmedia/icons/levelten/glossy/32x32/xlinkedin.png.pagespeed.ic.KvS4d3tu1L.png)](https://www.linkedin.com/in/muralidharandeepak)  
 
-![contact-me](http://findicons.com/files/icons/1008/quiet/32/gmail.png)  **deepakmuralidharan2308[at]gmail[dot]com**
+Contact ![contact-me](http://findicons.com/files/icons/1008/quiet/32/gmail.png):  **deepakmuralidharan2308[at]gmail[dot]com**
