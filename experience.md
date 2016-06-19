@@ -6,7 +6,7 @@ permalink: /experience/
 
 **Student Researcher**  
 **<span style="color:grey">Speech Processing and Auditory Perception Laboratory, UCLA</span>**  
-*<span style="color:brown">(Oct 2015 - March 2016)</span>*  
+*<span style="color:brown">(Oct 2015 - Present)</span>*  
 
 ---
 
