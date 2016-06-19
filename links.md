@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Some Useful links
+title: Useful links
 permalink: /links/
 ---
 
@@ -9,7 +9,7 @@ permalink: /links/
 * [keras](http://keras.io/getting-started/functional-api-guide/)
 * [Theano](http://deeplearning.net/software/theano/)
 
-#### **Deep Learning Blogs and Websites I found to be really useful**
+#### **Deep learning blogs and websites I found to be really useful**
 * [Deep Learning for NLP Lectures](http://cs224d.stanford.edu/)
 * [Convolutional Neural Networks for Visual Recognition Lectures](http://cs231n.github.io/)
 * [Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
