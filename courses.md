@@ -4,6 +4,8 @@ title: Education
 permalink: /courses/
 ---
 
+#### **Graduate**  
+
 **University:** University of California, Los Angeles  
 **Degree Objective:** M.S., Electrical Engineering (Specializing in machine learning)  
 **Current CGPA:** 3.8/4.0  
@@ -25,3 +27,12 @@ Speech Processing
 Advanced Topics in Speech: Speech Recognition  
 Machine Learning for Bio-Informatics: Population Genetics  
 Graphs and Network Flows
+
+---
+
+#### **Undergraduate**
+
+**University:** Anna University, India  
+**Degree Objective:** B.E., Electrical and Computer Engineering     
+**CGPA:** 4.0/4.0  
+**Date of graduation:** May 2015  
