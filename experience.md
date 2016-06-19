@@ -4,14 +4,6 @@ title: Research and Work Experience
 permalink: /experience/
 ---
 
-##### **Graduate Student Researcher**  
+Graduate Student Researcher, <span style="color:red">UCLA Brain Mapping Center</span>  
 
-###### **UCLA Brain Mapping Center**
-
----
-
-##### **Summer Research Fellow,**
-
-###### **Indian Institute of Science**
-
----
+Summer Research Fellow, <span style="color:red">Indian Institute of Science</span>  
