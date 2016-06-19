@@ -29,10 +29,3 @@ Machine Learning for Bio-Informatics: Population Genetics
 Graphs and Network Flows
 
 ---
-
-#### **Undergraduate**
-
-**University:** Anna University, India  
-**Degree Objective:** B.E., Electrical and Computer Engineering     
-**CGPA:** 4.0/4.0  
-**Date of graduation:** May 2015  
