@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Education and Coursework
+title: Education
 permalink: /courses/
 ---
 
