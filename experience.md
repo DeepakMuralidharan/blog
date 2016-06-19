@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Coursework
+title: Research and Work Experience
 permalink: /experience/
 ---
 
