@@ -4,7 +4,7 @@ title: Research and Work Experience
 permalink: /experience/
 ---
 
-**Student Researcher (Speech Processing/ Machine Learning)**  
+**Student Researcher (Machine Learning in Speaker Verification)**  
 **<span style="color:grey">Speech Processing and Auditory Perception Laboratory, UCLA</span>**  
 *<span style="color:brown">(Oct 2015 - Present)</span>*  
 
