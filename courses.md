@@ -6,7 +6,7 @@ permalink: /courses/
 
 **University:** University of California, Los Angeles  
 **Degree Objective:** M.S., Electrical Engineering (Specializing in machine learning)
-**Current CGPA:** 3.8/4.0
+**Current CGPA:** 3.8/4.0  
 **Expected date of graduation:** Jan 2017  
 
 **Coursework**
