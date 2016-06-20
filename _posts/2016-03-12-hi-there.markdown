@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Welcome :)"
-date:   2016-03-12 19:37:01 -0800
+title:  "Welcome to my webpage :)"
+date:   2016-06-18 19:37:01 -0800
 categories: jekyll update
 ---
 
-Hi. This is my `webpage`. Feel free to browse through the pages.
+Hi. Welcome to my webpage. Feel free to browse through.
 
 
 {% highlight ruby %}
