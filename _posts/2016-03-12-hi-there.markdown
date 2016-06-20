@@ -6,4 +6,4 @@ categories: jekyll update
 ---
 
 `Hi. Welcome to my webpage.`  
-I've always wanted to have a webpage! Now finally had the time to create one :D
+Finally got the time to create one :D
