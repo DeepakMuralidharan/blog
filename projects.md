@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-#### **Genotype Imputation using Recurrent Neural Network**
+#### **Genotype Imputation using bi-directional Recurrent Neural Network**
 
 ##### **Abstract**  
 
