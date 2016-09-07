@@ -6,8 +6,8 @@ permalink: /experience/
 
 #### Industry
 
-**Software Engineer Intern (Machine Learning)**  
-**<span style="color:grey">Apple Inc. (Siri)</span>**  
+**Machine Learning Engineer Intern**  
+**<span style="color:grey">Apple Inc. (Siri Natural Language Team)</span>**  
 *<span style="color:brown">(Jun 2016 - Present)</span>*  
 
 ---
