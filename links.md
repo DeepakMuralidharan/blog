@@ -8,6 +8,7 @@ permalink: /links/
 * [Tensorflow](https://www.tensorflow.org/)
 * [keras](http://keras.io/getting-started/functional-api-guide/)
 * [Theano](http://deeplearning.net/software/theano/)
+* [Torch](http://torch.ch/)
 
 #### **Deep learning blogs and websites I found to be really useful**
 * [Deep Learning for NLP Lectures](http://cs224d.stanford.edu/)
