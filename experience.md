@@ -8,7 +8,7 @@ permalink: /experience/
 
 **Machine Learning Engineer Intern**  
 **<span style="color:grey">Apple Inc. (Siri Natural Language Team)</span>**  
-*<span style="color:brown">(Jun 2016 - Present)</span>*  
+*<span style="color:brown">(Jun 2016 - Sep 2016)</span>*  
 
 ---
 
