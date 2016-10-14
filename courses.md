@@ -28,4 +28,8 @@ Advanced Topics in Speech: Speech Recognition
 Machine Learning for Bio-Informatics: Population Genetics  
 Graphs and Network Flows
 
+**<span style="color:grey">Fall 2016</span>**
+Machine Perception (Computer Vision)
+Current Topics in AI: Deformable Models in Computer Vision
+Matrix Analysis for Scientists and Engineers
 ---
