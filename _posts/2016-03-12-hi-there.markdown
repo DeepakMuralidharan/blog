@@ -6,4 +6,3 @@ categories: jekyll update
 ---
 
 `Hi. Welcome to my webpage.`  
-Finally got the time to create one :D
