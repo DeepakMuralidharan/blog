@@ -4,13 +4,9 @@ title: About Me
 permalink: /about/
 ---
 
-I am an Electrical Engineering Masters student at the University of California, Los Angeles and my academic areas of interests include machine learning, artificial intelligence and data mining.
+I am an Electrical Engineering Masters student at the University of California, Los Angeles and my primary academic area of interest is machine learning. 
 
 More specifically, I am interested in deep learning and neural networks and their applications in computer vision, speech, natural language processing and health care.
-
-`I love computers, software, and making machines think`
-
-You can find my Resume [here]().
 
 Github:
 {% include icon-github.html username="deepakmuralidharan" %}
