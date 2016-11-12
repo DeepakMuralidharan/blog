@@ -4,7 +4,9 @@ title: About Me
 permalink: /about/
 ---
 
-Hey! I am Deepak. I am currently pursuing my Masters in  Electrical Engineering at the University of California, Los Angeles (UCLA). My primary academic area of interest is machine learning and AI. More specifically, I am interested in deep learning and neural networks and their applications in computer vision, speech, natural language processing and health care.
+Hey! I am Deepak. 
+
+I am currently pursuing my Masters in  Electrical Engineering at the University of California, Los Angeles (UCLA). My primary academic area of interest is machine learning and AI. More specifically, I am interested in deep learning and neural networks and their applications in computer vision, speech, natural language processing etc.
 
 I interned at Apple in the Siri Natural Language team last summer. At UCLA, I ama member of the Speech Processing and Auditory Perception Laboratory advised by Prof. Abeer Alwan where I work on speaker verification.
 
