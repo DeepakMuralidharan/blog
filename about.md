@@ -4,9 +4,9 @@ title: About Me
 permalink: /about/
 ---
 
-I'm currently working as a Machine Learning Engineer in the Siri Natural Language (NLP) team at Apple. 
+I currently work as a Machine Learning Engineer in the Siri Natural Language team at Apple. 
 
-Prior to this, I obtained my Masters in  Electrical Engineering at the University of California, Los Angeles (UCLA). My primary academic area of interest is machine learning with applications in natural language processing, computer vision and speech. At UCLA, I was a member of the Speech Processing and Auditory Perception Laboratory advised by Prof Abeer Alwan where I worked on deep neural networks for estimation of subglottal acoustic features.
+Prior to this, I obtained my Masters in  Electrical Engineering at the University of California, Los Angeles (UCLA). During my Masters, my primary academic area of interest was machine learning with applications in natural language processing, computer vision and speech. At UCLA, I was a member of the Speech Processing and Auditory Perception Laboratory where I worked on deep neural networks for estimation of subglottal acoustic features.
 
 Github:
 {% include icon-github.html username="deepakmuralidharan" %}
