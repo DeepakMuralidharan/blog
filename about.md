@@ -4,11 +4,9 @@ title: About Me
 permalink: /about/
 ---
 
-Hey! I am Deepak. 
+I'm currently working as a Machine Learning Engineer in the Siri Natural Language (NLP) team at Apple. 
 
-I am currently pursuing my Masters in  Electrical Engineering at the University of California, Los Angeles (UCLA). My primary academic area of interest is machine learning and AI. More specifically, I am interested in deep learning and neural networks and their applications in computer vision, speech, natural language processing etc.
-
-I interned at Apple in the Siri Natural Language team last summer. At UCLA, I am a member of the Speech Processing and Auditory Perception Laboratory advised by Prof. Abeer Alwan where I work on speaker verification.
+Prior to this, I obtained my Masters in  Electrical Engineering at the University of California, Los Angeles (UCLA). My primary academic area of interest is machine learning with applications in natural language processing, computer vision and speech. At UCLA, I was a member of the Speech Processing and Auditory Perception Laboratory advised by Prof Abeer Alwan where I worked on deep neural networks for estimation of subglottal acoustic features.
 
 Github:
 {% include icon-github.html username="deepakmuralidharan" %}
