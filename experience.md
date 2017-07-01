@@ -5,7 +5,7 @@ permalink: /experience/
 ---
 
 #### Industry
-**Machine Learning Engineer**,***Siri Natural Language Understanding***       
+**Machine Learning Engineer**         
 **<span style="color:grey">Apple Inc. (Siri Natural Language Understanding)</span>**   
 *<span style="color:brown">(Feb 2017 - current)</span>*  
 
