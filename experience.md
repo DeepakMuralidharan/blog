@@ -5,9 +5,13 @@ permalink: /experience/
 ---
 
 #### Industry
+**Machine Learning Engineer**
+**<span style="color:grey">Apple Inc. (Siri Natural Language Understanding)</span>**
+*<span style="color:brown">(Feb 2017 - current)</span>*
+
 
 **Machine Learning Engineer Intern**  
-**<span style="color:grey">Apple Inc. (Siri Natural Language Team)</span>**  
+**<span style="color:grey">Apple Inc. (Siri Natural Language Understanding)</span>**  
 *<span style="color:brown">(Jun 2016 - Sep 2016)</span>*  
 
 ---
@@ -16,7 +20,7 @@ permalink: /experience/
 
 **Student Researcher (Machine Learning in Speaker Verification)**  
 **<span style="color:grey">Speech Processing and Auditory Perception Laboratory, UCLA</span>**  
-*<span style="color:brown">(Oct 2015 - Present)</span>*  
+*<span style="color:brown">(Oct 2015 - Dec 2016)</span>*  
 
 
 
